@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6000mm"
+   height="2000mm"
+   viewBox="0 0 6000 2000"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="test.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="0"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#281b1b;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#191919;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#3a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#191919;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="radialGradient2"
+       cx="3384.021"
+       cy="858.85913"
+       fx="3384.021"
+       fy="858.85913"
+       r="1209.2096"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.4047395e-8,1.7754838,-1.6313674,0,4785.1359,-5149.4151)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="radialGradient3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.73840212,-0.67846586,0,-2170.1767,-2973.232)"
+       cx="3384.021"
+       cy="858.85913"
+       fx="3384.021"
+       fy="858.85913"
+       r="1209.2096" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="radialGradient5"
+       cx="2346.4241"
+       cy="440.59937"
+       fx="2346.4241"
+       fy="440.59937"
+       r="3000"
+       gradientTransform="matrix(1,0,0,0.33333333,0,666.66667)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     style="fill:url(#radialGradient5);stroke:none;stroke-width:30;stroke-linecap:square"
+     id="rect1"
+     width="6000"
+     height="2000"
+     x="0"
+     y="1.1368684e-13"
+     ry="6.2096858" />
+  <g
+     id="g5"
+     transform="translate(-591.84284,226.16118)">
+    <circle
+       style="fill:url(#radialGradient2);stroke:none;stroke-width:30;stroke-linecap:square"
+       id="path1"
+       cx="4147.4766"
+       cy="1796.5815"
+       r="1209.2096" />
+    <circle
+       style="fill:url(#radialGradient3);stroke:none;stroke-width:12.4766;stroke-linecap:square"
+       id="circle3"
+       cx="-2435.3713"
+       cy="-84.476379"
+       r="502.89557"
+       transform="scale(-1)" />
+  </g>
+  <rect
+     style="fill:#191919;fill-opacity:1;stroke:none;stroke-width:12.3017;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     id="rect64"
+     width="224.069"
+     height="109.82229"
+     x="5285.0522"
+     y="1667.7018"
+     ry="9.3971376" />
+  <g
+     id="g65"
+     transform="translate(-12579.507,52.916667)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.344px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';letter-spacing:50.7533px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:31.7572;stroke-linecap:square"
+       x="12576.061"
+       y="1422.989"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Semi-Bold';letter-spacing:50.7533px;fill:#000000;fill-opacity:1;stroke-width:31.7572"
+         x="12576.061"
+         y="1422.989"
+         dx="0">ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT ICDT </tspan></text>
+    <g
+       id="g64"
+       transform="matrix(0.6394112,0,0,0.6394112,14856.425,755.95031)">
+      <path
+         sodipodi:type="star"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.9373;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="path5"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="4798.8242"
+         sodipodi:cy="261.92413"
+         sodipodi:r1="276.11429"
+         sodipodi:r2="138.05714"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 4798.8242,538.03842 -239.122,-414.17142 478.244,-2e-5 z"
+         inkscape:transform-center-x="0.00010198469"
+         inkscape:transform-center-y="36.451105"
+         transform="matrix(0.5280583,0,0,0.5280583,2949.9858,636.52081)" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         d="M 5484.0449,912.59749 V 844.38378"
+         id="path62" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         d="m 5564.5664,774.83201 h -33.83"
+         id="path63" />
+    </g>
+  </g>
+</svg>
